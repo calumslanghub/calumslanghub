@@ -1,4 +1,5 @@
-## Hello, I hope this now works. omg it did.
+## Hello, welcome to my github account.
+# I am currently studying a masters in Urban Analytics at the University of Glasgow. I hope to soon have some cool work to share.
 
 <!--
 **calumslanghub/calumslanghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
